@@ -97,7 +97,7 @@ body {
   font-size: 1.9em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 300;
-  font-family: "futura-pt", Helvetica, Arial, sans-serif;
+  font-family: 'Roboto Mono', monospace;
   background-color: #324ea7;
   color: #b5c1df; }
 
@@ -163,7 +163,7 @@ h1 {
   margin-top: 25rem;
   margin-bottom: 12rem;
   font-weight: 500; 
-  font-family: "futura-pt", Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color:#fff;
   letter-spacing: -.15rem;
 }
@@ -172,7 +172,7 @@ h3 {
   margin-top: 0;
   margin-bottom: 12rem;
   font-weight: 500; 
-  font-family: "futura-pt", Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color:#fff;
   letter-spacing:-.05rem;
 }
@@ -181,7 +181,7 @@ h2, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 2.5rem;
   font-weight: 700; 
-  font-family: "futura-pt", Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color:#fff;
   text-transform: uppercase;
   letter-spacing:.3rem;
