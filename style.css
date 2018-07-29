@@ -35,7 +35,7 @@
   .three.columns                  { width: 22%;            }
   .four.columns                   { width: 30.6666666667%; }
   .five.columns                   { width: 39.3333333333%; }
-  .six.columns                    { width: 48%;            }
+  .six.columns                    { width: 22%;            }
   .seven.columns                  { width: 56.6666666667%; }
   .eight.columns                  { width: 65.3333333333%; }
   .nine.columns                   { width: 74.0%;          }
@@ -60,7 +60,7 @@
   .offset-by-five.column,
   .offset-by-five.columns         { margin-left: 43.3333333333%; }
   .offset-by-six.column,
-  .offset-by-six.columns          { margin-left: 52%;            }
+  .offset-by-six.columns          { margin-left: 26%;            }
   .offset-by-seven.column,
   .offset-by-seven.columns        { margin-left: 60.6666666667%; }
   .offset-by-eight.column,
