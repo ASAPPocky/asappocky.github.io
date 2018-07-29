@@ -118,14 +118,8 @@ body {
 .footer a:hover{opacity:.5;border:0;}
 
 
-  .nyu{width:115px;height:31px;background:url(images/logos/nyu2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.8;}
-  .squarespace{width:115px;height:31px;background:url(images/logos/squarespace2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.9;}
-  .fit{width:115px;height:31px;background:url(images/logos/fit2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.8;}
-  .kipling{width:115px;height:31px;background:url(images/logos/kipling2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.8;}
-  .pond5{width:115px;height:31px;background:url(images/logos/pond52x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.8;}
-  .horizon{width:115px;height:31px;background:url(images/logos/horizon2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.8;}
-  .skillshare{width:115px;height:31px;background:url(images/logos/skillshare2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.8;}
-  .carmax{width:115px;height:31px;background:url(images/logos/carmax2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.8;}
+  .hon{width:115px;height:31px;background:url(images/logos/hon2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.8;}
+  .illinois{width:115px;height:31px;background:url(images/logos/illinois2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.9;}
 
 
 @media (min-width: 550px) {
