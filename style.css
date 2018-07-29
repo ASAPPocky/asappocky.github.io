@@ -98,7 +98,7 @@ body {
   line-height: 1.6;
   font-weight: 300;
   font-family: "futura-pt", Helvetica, Arial, sans-serif;
-  background-color: #324ea7;
+  background-color: #4c68c1;
   color: #b5c1df; }
 
 .logo{background:url(images/logo.png) no-repeat; width:80px; height:80px;margin-top:8%;}
@@ -107,7 +107,7 @@ body {
 
 .logocontainer{background-color:#4c68c1;margin-top:6rem;padding:4rem 0;}
 
-.twitter{background:url(images/twitter2x.png) no-repeat; width:22px; height:22px;background-size:22px 22px;margin-right:20px;float:left;}
+.instagram{background:url(images/instagram2x.png) no-repeat; width:22px; height:22px;background-size:22px 22px;margin-right:20px;float:left;}
 .linkedin{background:url(images/linkedin2x.png) no-repeat; width:22px; height:22px;background-size:22px 22px;margin-right:10px;float:left;}
 
 .social {border:0;}
