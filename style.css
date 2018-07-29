@@ -107,9 +107,6 @@ body {
 
 .logocontainer{background-color:#4c68c1;max-width: 510px;margin-top:6rem;padding:2rem 0;}
 
-.instagram{background:url(images/instagram2x.png) no-repeat; width:22px; height:22px;background-size:22px 22px;margin-right:20px;float:left;}
-.linkedin{background:url(images/linkedin2x.png) no-repeat; width:22px; height:22px;background-size:22px 22px;margin-right:10px;float:left;}
-
 .social {border:0;}
 .social:hover {opacity:.5;border:0;}
 
